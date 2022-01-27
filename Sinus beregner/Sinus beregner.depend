@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1611824721 source:d:\programmering\codeblocks\projekter\sinus beregner\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

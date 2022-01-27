@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1642062592 source:d:\programmering\codeblocks\projekter\Øvelser\c øvelser\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1642059297 source:d:\programmering\codeblocks\projekter\Øvelser\c øvelser\struct i c.c
+	<stdio.h>
+	<string.h>
+

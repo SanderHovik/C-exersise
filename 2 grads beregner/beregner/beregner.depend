@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1611566214 source:d:\programmering\codeblocks\projekter\2 grads beregner\beregner\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
